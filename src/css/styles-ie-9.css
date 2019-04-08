@@ -1,0 +1,80 @@
+.a {
+  color: red;
+}
+
+.profit-items {
+  margin-left: -10px;
+  margin-right: -10px;
+  font-size: 0;
+  text-align: center;
+}
+
+.item {
+  margin-left: -10px;
+  margin-right: -10px;
+  font-size: 16px;
+}
+
+.sub-experts {
+  margin-left: -10px;
+  margin-right: -10px;
+  font-size: 0;
+  text-align: center;
+}
+
+.sub-experts .expert {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 16px;
+}
+
+@media screen and (max-width: 576px) {
+  .profit-items {
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+
+  .item {
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+
+  .sub-experts {
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .profit-items {
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+
+  .item {
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+
+  .sub-experts {
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .profit-items {
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+
+  .item {
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+
+  .sub-experts {
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+}
